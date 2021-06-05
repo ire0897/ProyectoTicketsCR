@@ -1,0 +1,11 @@
+Realizar una aplicación web donde las personas puedan tener fácil acceso para adquirir tickets para el transporte publico sin necesidad de manipular efectivo.
+
+Pnatallas:
+Login
+Home
+Venta tickets
+Horarios y espacios
+Rutas
+Información
+Contacto
+Mi perfil
